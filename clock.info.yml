@@ -1,0 +1,7 @@
+name: Clock
+description: Clock module
+type: module
+core_version_requirement: ^9
+package: Motioncode
+dependencies:
+  - drupal:block
